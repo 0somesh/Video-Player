@@ -4,13 +4,13 @@ export const categories = [
     "TypeScript",
     "Programming",
     "Travelling",
-    "Cricket World Cup 2023",
+    "Football WorldCup",
     "Bowling",
-    "Cricket",
+    "Football",
     "React",
-    "Next.js",
-    "UI/UX Design",
-    "Object Oriented Programming",
+    "Chess",
+    "Web3",
+    "C++",
     "Frontend Web Development",
     "Backend Web Development",
     "Web Development",
@@ -22,8 +22,8 @@ export const videos = [
         id: "1",
         title: "Spotify Clone Using HTML CSS | Creating a Spotify Clone",
         channel: {
-            name: "constGenius",
-            id: "constGenius",
+            name: "Fake Name1",
+            id: "Fake Name1",
             profileUrl:
                 "https://yt3.googleusercontent.com/34iWjSG2HTPH6ZrbMgNm2rBZ1V2JFV0Mhqh0LRz-4io54KaVapieB0E08YoM6qWgwKS2vDtW=s900-c-k-c0x00ffffff-no-rj",
         },
@@ -38,8 +38,8 @@ export const videos = [
         id: "2",
         title: "Infinite Scrolling Animation CSS Only",
         channel: {
-            name: "constGenius",
-            id: "constGenius",
+            name: "Fake Name2",
+            id: "Fake Name2",
             profileUrl:
                 "https://yt3.googleusercontent.com/34iWjSG2HTPH6ZrbMgNm2rBZ1V2JFV0Mhqh0LRz-4io54KaVapieB0E08YoM6qWgwKS2vDtW=s900-c-k-c0x00ffffff-no-rj",
         },
@@ -54,8 +54,8 @@ export const videos = [
         id: "3",
         title: "How to get ahead of 99% of people",
         channel: {
-            name: "Ruri Ohama",
-            id: "Ruri Ohama",
+            name: "Fake Name3",
+            id: "Fake Name3",
             profileUrl:
                 "https://yt3.googleusercontent.com/gw6BRWav3SyG39C2kmEM1VSb5ocjEWuKRBKPhRndqOKmAxj3rzB5OOVQKeE0751DJrPWJH7c=s900-c-k-c0x00ffffff-no-rj",
         },
@@ -70,8 +70,8 @@ export const videos = [
         id: "4",
         title: "Sia - Unstoppable (Official Audio)",
         channel: {
-            name: "Sia",
-            id: "Sia",
+            name: "Fake Name4",
+            id: "Fake Name4",
             profileUrl:
                 "https://yt3.ggpht.com/4cFOo3R_D4gOVVJPEt8aoff-Fi2eRjM5Nxz5fDXpw0WS57go_buPi0kvhehvTnBZeF3qSmAT=s900-c-k-c0x00ffffff-no-nd-rj",
         },
@@ -86,8 +86,8 @@ export const videos = [
         id: "5",
         title: "THE BATMAN – Main Trailer",
         channel: {
-            name: "Warner Bros. Pictures",
-            id: "Warner Bros. Pictures",
+            name: "Fake Name5",
+            id: "Fake Name5",
             profileUrl:
                 "https://yt3.googleusercontent.com/CoYiDB8ojHTQvSwr9h8clzpcm85wiFaHroW0MaVgTnDEXAIMxhGlzC5Vwo9N3-z3obfVqc_G62I=s900-c-k-c0x00ffffff-no-rj",
         },
@@ -102,8 +102,8 @@ export const videos = [
         id: "6",
         title: "Marvel Studios' Avengers: Endgame - Official Trailer",
         channel: {
-            name: "Marvel Entertainment",
-            id: "Marvel Entertainment",
+            name: "Fake Name6",
+            id: "Fake Name6",
             profileUrl:
                 "https://yt3.googleusercontent.com/ugAmG9LeliJJoiyacIecdiq_ZgRNdmjCIohaN5x3QEOmWB9dNUsKuCU8ngLs3JUauHZ4-boVkA=s800-c-k-c0x00ffffff-no-rj",
         },
@@ -118,8 +118,8 @@ export const videos = [
         id: "7",
         title: "Learn React From Scratch in 1 hour",
         channel: {
-            name: "constGenius",
-            id: "constGenius",
+            name: "Fake Name7",
+            id: "Fake Name7",
             profileUrl:
                 "https://yt3.googleusercontent.com/34iWjSG2HTPH6ZrbMgNm2rBZ1V2JFV0Mhqh0LRz-4io54KaVapieB0E08YoM6qWgwKS2vDtW=s900-c-k-c0x00ffffff-no-rj",
         },
@@ -134,8 +134,8 @@ export const videos = [
         id: "8",
         title: "Hidden Details in Loki's Costumes! | Behind the Scenes",
         channel: {
-            name: "Marvel Entertainment",
-            id: "Marvel Entertainment",
+            name: "Fake Name8",
+            id: "Fake Name8",
             profileUrl:
                 "https://yt3.googleusercontent.com/ugAmG9LeliJJoiyacIecdiq_ZgRNdmjCIohaN5x3QEOmWB9dNUsKuCU8ngLs3JUauHZ4-boVkA=s800-c-k-c0x00ffffff-no-rj",
         },
@@ -150,8 +150,8 @@ export const videos = [
         id: "9",
         title: "Beautiful Scroll Animations | Animate on Scroll",
         channel: {
-            name: "constGenius",
-            id: "constGenius",
+            name: "Fake Name9",
+            id: "Fake Name9",
             profileUrl:
                 "https://yt3.googleusercontent.com/34iWjSG2HTPH6ZrbMgNm2rBZ1V2JFV0Mhqh0LRz-4io54KaVapieB0E08YoM6qWgwKS2vDtW=s900-c-k-c0x00ffffff-no-rj",
         },
@@ -166,8 +166,8 @@ export const videos = [
         id: "10",
         title: "Peaky Blinders Season 6 Official Trailer | Netflix India",
         channel: {
-            name: "Netflix India",
-            id: "Netflix India",
+            name: "Fake Name10",
+            id: "Fake Name10",
             profileUrl:
                 "https://yt3.googleusercontent.com/zgMN9BuSQByG1SrpmLwcNB3MQhjDhS_pl9H1h7TaRievMfS4UpU7Z36j77z5_hnIW4N8uFX3NA=s900-c-k-c0x00ffffff-no-rj",
         },
@@ -183,8 +183,8 @@ export const videos = [
         id: "11",
         title: "Setup Tailwind CSS with React JS | Added Tips to use it easily",
         channel: {
-            name: "constGenius",
-            id: "constGenius",
+            name: "Fake Name11",
+            id: "Fake Name11",
             profileUrl:
                 "https://yt3.googleusercontent.com/34iWjSG2HTPH6ZrbMgNm2rBZ1V2JFV0Mhqh0LRz-4io54KaVapieB0E08YoM6qWgwKS2vDtW=s900-c-k-c0x00ffffff-no-rj",
         },
@@ -199,8 +199,8 @@ export const videos = [
         id: "12",
         title: "Learn useState Hook in React JS | React Hooks Explained",
         channel: {
-            name: "constGenius",
-            id: "constGenius",
+            name: "Fake Name12",
+            id: "Fake Name12",
             profileUrl:
                 "https://yt3.googleusercontent.com/34iWjSG2HTPH6ZrbMgNm2rBZ1V2JFV0Mhqh0LRz-4io54KaVapieB0E08YoM6qWgwKS2vDtW=s900-c-k-c0x00ffffff-no-rj",
         },
@@ -215,8 +215,8 @@ export const videos = [
         id: "13",
         title: "Carousel Component in ReactJS and Tailwind CSS",
         channel: {
-            name: "constGenius",
-            id: "constGenius",
+            name: "Fake Name13",
+            id: "Fake Name13",
             profileUrl:
                 "https://yt3.googleusercontent.com/34iWjSG2HTPH6ZrbMgNm2rBZ1V2JFV0Mhqh0LRz-4io54KaVapieB0E08YoM6qWgwKS2vDtW=s900-c-k-c0x00ffffff-no-rj",
         },
@@ -231,8 +231,8 @@ export const videos = [
         id: "14",
         title: "Website With Animated Text Effect Using HTML And CSS",
         channel: {
-            name: "constGenius",
-            id: "constGenius",
+            name: "Fake Name14",
+            id: "Fake Name14",
             profileUrl:
                 "https://yt3.googleusercontent.com/34iWjSG2HTPH6ZrbMgNm2rBZ1V2JFV0Mhqh0LRz-4io54KaVapieB0E08YoM6qWgwKS2vDtW=s900-c-k-c0x00ffffff-no-rj",
         },
@@ -247,8 +247,8 @@ export const videos = [
         id: "15",
         title: "Magic Navigation Menu Indicator Using HTML CSS JavaScript",
         channel: {
-            name: "constGenius",
-            id: "constGenius",
+            name: "Fake Name15",
+            id: "Fake Name15",
             profileUrl:
                 "https://yt3.googleusercontent.com/34iWjSG2HTPH6ZrbMgNm2rBZ1V2JFV0Mhqh0LRz-4io54KaVapieB0E08YoM6qWgwKS2vDtW=s900-c-k-c0x00ffffff-no-rj",
         },
